@@ -155,7 +155,7 @@ endmodule
 
 Waveforms will display the selected input line being passed to the output according to the select signals.
 
-(Insert waveform screenshot after running simulation in ModelSim)
+
 
 
 ---
